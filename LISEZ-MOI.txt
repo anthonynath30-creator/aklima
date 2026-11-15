@@ -1,2 +1,2 @@
-AKLIMA v9 - 6 fichiers a envoyer a la racine du depot GitHub :
+AKLIMA v10 - 6 fichiers a envoyer a la racine du depot GitHub :
 index.html, sw.js, manifest.webmanifest, icon-192.png, icon-512.png, icon-maskable-512.png
