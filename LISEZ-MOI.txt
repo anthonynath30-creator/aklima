@@ -1,2 +1,3 @@
-AKLIMA v10 - 6 fichiers a envoyer a la racine du depot GitHub :
+AKLIMA v12 - 6 fichiers a envoyer a la racine du depot GitHub :
 index.html, sw.js, manifest.webmanifest, icon-192.png, icon-512.png, icon-maskable-512.png
+(seuls index.html et sw.js changent par rapport a la version precedente)
