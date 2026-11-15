@@ -1,3 +1,2 @@
-AKLIMA v13 - 6 fichiers a envoyer a la racine du depot GitHub :
-index.html, sw.js, manifest.webmanifest, icon-192.png, icon-512.png, icon-maskable-512.png
-(seuls index.html et sw.js changent par rapport a la version precedente)
+AKLIMA v14 - envoyer a la racine du depot GitHub : index.html et sw.js (les autres fichiers sont inchanges)
+Verification : ouvrir https://anthonynath30-creator.github.io/<depot>/sw.js -> la premiere ligne doit contenir aklima-v14
