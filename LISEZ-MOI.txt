@@ -1,2 +1,3 @@
-AKLIMA v14 - envoyer a la racine du depot GitHub : index.html et sw.js (les autres fichiers sont inchanges)
-Verification : ouvrir https://anthonynath30-creator.github.io/<depot>/sw.js -> la premiere ligne doit contenir aklima-v14
+AKLIMA v16 - envoyer a la racine du depot GitHub : index.html et sw.js (les autres fichiers sont inchanges)
+Verification : ouvrir https://anthonynath30-creator.github.io/<nom-du-depot>/sw.js -> la premiere ligne doit contenir aklima-v16
+Vos donnees sont conservees.
